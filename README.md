@@ -12,9 +12,9 @@ This project leverages data analysis and web scraping techniques using Python to
 **Data Analysis** : Leveraging Jupyter Notebook, the gathered data undergoes exploratory data analysis (EDA), enabling a comprehensive exploration of tournament patterns within the dataset <br> <br>
 **Prediction Model** : A visualizable predictive model is developed to draw conclusions regarding the anticipated winner of the tournament <br> <br>
 
-# How to Use
+# How to Use?
 
-**1. Clone the Repository:** 
+**1. Clone the Repository:**
 
 ```bash
 git clone https://github.com/Jayavelrajan/WorldCup2023Prediction.git
