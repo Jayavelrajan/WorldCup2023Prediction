@@ -14,7 +14,7 @@ This project leverages data analysis and web scraping techniques using Python to
 
 # How to Use
 
-**1. Clone the Repository:** 
+**1. Clone the Repository :** 
 
 ```bash
 git clone https://github.com/Jayavelrajan/WorldCup2023Prediction.git
