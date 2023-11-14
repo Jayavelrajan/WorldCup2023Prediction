@@ -10,7 +10,7 @@ This project leverages data analysis and web scraping techniques using Python to
 
 **Web Scraping** : Employing web scraping methodologies using python, the project acquires current information on team performance as of November 9, 2023, sourced from the official ICC website at https://www.cricketworldcup.com/standings <br> <br>
 **Data Analysis** : Leveraging Jupyter Notebook, the gathered data undergoes exploratory data analysis (EDA), enabling a comprehensive exploration of tournament patterns within the dataset <br> <br>
-**Prediction Model** : A visualizable predictive model is developed to draw conclusions regarding the anticipated winner of the tournament. <br> <br>
+**Prediction Model** : A visualizable predictive model is developed to draw conclusions regarding the anticipated winner of the tournament <br> <br>
 
 # How to Use
 
