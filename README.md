@@ -65,8 +65,7 @@ Top 3 Positions :
 <img align="center" alt="Coding" width="500" src="images/top3prediction.PNG">
 
 
-**UPDATE : Regrettably, the prediction has proven to be inaccurate. The winning team in the ICC Cricket World Cup 2023 is Australia.
-**
+**UPDATE : Regrettably, the prediction has proven to be inaccurate. The winning team in the ICC Cricket World Cup 2023 is Australia**
 
 # License
 
